@@ -22,7 +22,7 @@ Simple Apple shortcut as well as alfred workflow for generating aliased email ad
 
 ## Attribution
 
-The Apple Script that powers the shortcut's functionality was inspired by reddit post [https://www.reddit.com/r/shortcuts/comments/yp5817/shortcut_for_creating_a_new_hide_my_email_alias/](Shortcut for creating a new Hide My Email alias) by [u/b_leep's](https://www.reddit.com/user/b_leep/)
+The Apple Script that powers the shortcut's functionality was inspired by reddit post [Shortcut for creating a new Hide My Email alias](https://www.reddit.com/r/shortcuts/comments/yp5817/shortcut_for_creating_a_new_hide_my_email_alias) by [u/b_leep's](https://www.reddit.com/user/b_leep)
 
 ## Disclaimer
 
